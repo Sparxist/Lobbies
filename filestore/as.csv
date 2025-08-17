@@ -9,7 +9,6 @@ BNLG,1755443562,Invalidate,dropper - grapherz
 BSYG,1755443562,Invalidate,dropper - grapherz
 BXEG,1755443562,Invalidate,dropper - grapherz
 CITG,1755443562,Invalidate,dropper - grapherz
-code,timestamp,status,credit
 DCPG,1755443562,Invalidate,dropper - grapherz
 DCTG,1755443562,Invalidate,dropper - grapherz
 DRPG,1755443562,Confirm,dropper - grapherz
@@ -148,3 +147,4 @@ YSPG,1755443562,Invalidate,dropper - grapherz
 ZATG,1755443562,Confirm,dropper - grapherz
 ZBYG,1755443562,Invalidate,dropper - grapherz
 ZUTG,1755443562,Confirm,dropper - grapherz
+

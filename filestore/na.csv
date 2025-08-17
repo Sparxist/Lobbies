@@ -1,8 +1,8 @@
 code,timestamp,status,credit
 AERG,???,Discover,???
 ATTP,???,Discover,???
-ATWG,???,Discover,???
-COXG,???,Discover,???
+ATWG,1755433500,Confirm,dropper - grapherz
+COXG,1755433490,Invalidate,dropper - grapherz
 EFAF,???,Discover,???
 EGXG,1755433294,Confirm,dropper - grapherz
 ETAF,1755433146,Invalidate,dropper - grapherz
@@ -16,14 +16,14 @@ KWWG,???,Discover,???
 LBAF,???,Discover,???
 MUAF,1755433432,Confirm,dropper - grapherz
 MUWG,1755428397,Invalidate,dropper - grapherz
-MWQG,???,Discover,???
+MWQG,1755433498,Invalidate,dropper - grapherz
 NEWG,???,Discover,???
 NKAF,???,Discover,???
 ODRG,1755288683,Invalidate,dropper - grapherz
 PDAF,1755433372,Confirm,dropper - grapherz
 PGWG,???,Discover,???
 QUAF,???,Discover,???
-SRAF,???,Discover,???
+SRAF,1755433515,Invalidate,dropper - grapherz
 SVWG,???,Discover,???
 SZAF,1755433194,Confirm,dropper - grapherz
 TURG,1755433348,Confirm,dropper - grapherz
@@ -132,3 +132,24 @@ WIXG,1755433460,Discover,dropper - grapherz
 DQRG,1755433462,Discover,dropper - grapherz
 ECWG,1755433465,Discover,dropper - grapherz
 LUWG,1755433467,Discover,dropper - grapherz
+YAQG,1755433470,Discover,dropper - grapherz
+NHXG,1755433472,Discover,dropper - grapherz
+DZRG,1755433475,Discover,dropper - grapherz
+ZXWG,1755433477,Discover,dropper - grapherz
+YQXG,1755433480,Discover,dropper - grapherz
+COWG,1755433483,Discover,dropper - grapherz
+KMMF,1755433485,Discover,dropper - grapherz
+KAAF,1755433487,Discover,dropper - grapherz
+BAXG,1755433493,Discover,dropper - grapherz
+CSAF,1755433495,Discover,dropper - grapherz
+IGXG,1755433503,Discover,dropper - grapherz
+GOAF,1755433505,Discover,dropper - grapherz
+SNAF,1755433508,Discover,dropper - grapherz
+QDRG,1755433510,Discover,dropper - grapherz
+CFAF,1755433513,Discover,dropper - grapherz
+HNXG,1755433518,Discover,dropper - grapherz
+PTWG,1755433520,Discover,dropper - grapherz
+WUXG,1755433523,Discover,dropper - grapherz
+LRAF,1755433525,Discover,dropper - grapherz
+FBRG,1755433528,Discover,dropper - grapherz
+BZQG,1755433531,Discover,dropper - grapherz
